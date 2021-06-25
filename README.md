@@ -1,14 +1,13 @@
-<p align="center">
-<img src="https://miro.medium.com/max/6000/0*JKyzq_e9TUlb84wX" />
-</p>
-<h3 align="center"> **Leisurely exploring the software development world !**  </h3>
-
-***
 
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 ***
+<p align="center">
+<img src="https://miro.medium.com/max/6000/0*JKyzq_e9TUlb84wX" />
+</p>
+<h3 align="center"> Leisurely exploring the software development world !  </h3>
 
+***
 <h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
 
 <p align="left"> 
